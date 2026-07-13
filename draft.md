@@ -21,6 +21,7 @@ Goal:
 - Is boot time (or TTI) really the most important thing to benchmark sandbox providers on?
 - Vibecode from your phone with a personal cloud agent sandbox setup
 - Spec comparison pages
+- Teach your agent how to deploy your vibe-coded app on Ascii box by itself
 
 
 
